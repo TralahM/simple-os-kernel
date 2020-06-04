@@ -112,3 +112,4 @@ env/
 TralahTek.iso
 kern
 boot.o kernel.o
+*.o
