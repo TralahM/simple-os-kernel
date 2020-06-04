@@ -33,9 +33,6 @@ It leverages the *Bootloader* **GRUB**
 [![TralahM](https://img.shields.io/badge/Engineer-TralahM-blue.svg?style=for-the-badge)](https://github.com/TralahM)
 [![TralahM](https://img.shields.io/badge/Maintainer-TralahM-green.svg?style=for-the-badge)](https://github.com/TralahM)
 
-# Documentation
-
-[![Documentation](https://img.shields.io/badge/Docs-simple-os-kernel-blue.svg?style=for-the-badge)](https://github.com/TralahM/simple-os-kernel)
 
 # How to Build and Install
 
@@ -47,7 +44,7 @@ $ make
 $ make iso
 ```
 
-An Iso is the built which you can test with *QEMU*, Virtualbox, or create a bootable disk.
+An ISO image will be built which you can test with *QEMU*, Virtualbox, or create a bootable disk.
 
 # Contributing
 [See the Contributing File](CONTRIBUTING.rst)
